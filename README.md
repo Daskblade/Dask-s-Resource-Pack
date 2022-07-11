@@ -1,2 +1,2 @@
 # Dask-s-Resource-Pack
-Minecraft Resource Pack
+Minecraft Resource Packa
